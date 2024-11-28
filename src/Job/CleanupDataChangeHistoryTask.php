@@ -1,6 +1,6 @@
 <?php
 
-namespace Symbiote\DataChange\Job;
+namespace Symbiote\DataChange\Model\DataChangeRecord;
 
 use Symbiote\DataChange\DataChangeRecord;
 
